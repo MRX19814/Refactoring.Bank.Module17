@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refactoring.Bank.Module17", "Refactoring.Bank.Module17.csproj", "{497EBBB1-DAF3-44B0-ACE8-96603FF10DA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{497EBBB1-DAF3-44B0-ACE8-96603FF10DA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{497EBBB1-DAF3-44B0-ACE8-96603FF10DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{497EBBB1-DAF3-44B0-ACE8-96603FF10DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{497EBBB1-DAF3-44B0-ACE8-96603FF10DA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98DBF1B7-C11E-4C29-A02D-2E3DCC961C36}
+	EndGlobalSection
+EndGlobal
